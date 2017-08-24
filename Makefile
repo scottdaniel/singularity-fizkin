@@ -1,4 +1,4 @@
-SINGULARITY = /usr/local/bin/singularity
+SINGULARITY = singularity
 IMG_NAME = fizkin.img
 DEF_NAME = image.def
 
